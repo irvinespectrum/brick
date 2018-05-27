@@ -1,0 +1,13 @@
+初始化 project
+firebase init
+
+部署 project
+firebase deploy
+需要先增加 firebase hosting project 然後連結 function，然後才能用 custom domain
+解決 cloudflare 連接 firebase custom domain 問題
+toggling the DNS Status on cloudflare from DNS and HTTP Proxy (CDN) to just DNS on the two A records
+
+
+
+開發 server
+sudo firebase serve
