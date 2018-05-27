@@ -5,6 +5,6 @@ const functions = require("firebase-functions");
 // // https://firebase.google.com/docs/functions/typescript
 //
 exports.helloWorld = functions.https.onRequest((request, response) => {
-    response.send("Hello from Firebase!");
+    response.send("Hello from Firebase and Salesamount.com!");
 });
 //# sourceMappingURL=index.js.map
